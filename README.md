@@ -4,8 +4,8 @@
 <h3 align="center">A passionate Full Stack Developer from Bangladesh.</h3>
 
 - 🌱 I’m currently learning **Advanced AWS, TypeScript, and scalable backend architectures**
-- 👨‍💻 All of my projects are available at [https://mashcorp.dev](https://mashcorp.dev)
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/jmushfiqr)**
+- 👨‍💻 All of my projects are available at [Mushfiq's Portfolio](https://mushfiqsportfolio.vercel.app/))
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
